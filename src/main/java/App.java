@@ -13,4 +13,8 @@ public class App {
     public void test(){
         //TODO   
     }
+    
+    public void test2(){
+        //TODO
+    }
 }
